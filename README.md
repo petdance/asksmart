@@ -15,3 +15,15 @@ specifically refutes those ideas and others in ESR's piece.
 
 * Phrase directions in positive, not negative ways.  Instead of
 "Don't do X", say "Instead of X, do Y" or better yet, just "Do Y."
+
+* Do not mock the reader.
+
+* Assume the best of intentions of the reader.
+
+* Not knowing the answer, or not going through proper steps before
+asking a question, is not a moral failing.
+
+* No sarcasm.
+
+* No belittling.
+
