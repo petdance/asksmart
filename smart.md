@@ -25,14 +25,14 @@ and type in "how can I get my git repository status in my bash
 prompt?"  Just like that.  And now you have a
 [page of possible answers][git-shell].
 
-    [git-shell]: https://www.google.com/search?q=how+can+I+get+my+git+repository+status+in+my+shell+prompt%3F
 
 Maybe all those pages don't apply to you, because they're mostly
 about zsh and you're using bash, so change "shell" to "bash" and
-try it again.  Now you've narrowed your search and you have ten
-excellent sources of help.
+[try it again][git-bash].  Now you've narrowed your search and you
+have ten excellent sources of help.
 
-    [git-bash]: https://www.google.com/search?q=how+can+I+get+my+git+repository+status+in+my+bash+prompt%3F
+[git-shell]: https://www.google.com/search?q=how+can+I+get+my+git+repository+status+in+my+shell+prompt%3F
+[git-bash]: https://www.google.com/search?q=how+can+I+get+my+git+repository+status+in+my+bash+prompt%3F
 
 In half a minute, you've found the answer you need, and it's more
 complete than someone making an *ad hoc* answer on a mailing list
