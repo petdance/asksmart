@@ -82,3 +82,20 @@ The people who want to help you with your problem
 
 You owe it to the blogosphere and those who come after to explain
 how you solved your problem.
+
+# Scraps
+
+* Don't tell us you're desperate.
+
+* Don't tell us it's simple.
+
+* Don't pretend to know more than you do.
+
+* Don't apologize for not knowing.
+
+* Tell us what you've tried.
+
+* Tell us what you've diagnosed.
+
+* Don't ask to ask.
+
