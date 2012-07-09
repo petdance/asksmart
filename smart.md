@@ -48,6 +48,8 @@ you'll find a page with someone asking that question.
 
 XXX Paste the warning message.
 
+java.lang.Thread.run(Thread.java:679) Caused by: org.apache.solr.common.SolrException: Error loading class 'solr.VelocityResponseWriter' at 
+
 # Look in specialized places
 
 ## Stack Overflow
