@@ -68,6 +68,8 @@ The people who want to help you with your problem
 
 # Be specific in stating the problem
 
+Don't say "it doesn't work".  Explain the way in which it doesn't work.  Do you get no output?  Incorrect output?  If it's incorrect, what makes it incorrect, and what would the correct output be?  Don't expect that the reader knows what "working" means for you.
+
 # Be polite
 
 # Assume that the problem is you
@@ -78,7 +80,11 @@ The people who want to help you with your problem
 
 # Give error messages
 
+Always cut & paste entire error messages.  Don't paraphase: "It said it was out of space."  Paste the entire message, not just an identifier: "I got a XYZZY error."
+
 # Write clearly
+
+Avoid vague terms.  Avoid pronouns when possible, especially "it", which could mean many things when describing two or more entities interacting.
 
 # Report back what you found
 
