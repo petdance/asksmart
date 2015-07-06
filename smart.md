@@ -101,3 +101,4 @@ how you solved your problem.
 
 * Don't ask to ask.
 
+* Don't ask about "most efficient".  There are many different types of efficiency.  If you mean "will execute fastest", then say that.  If you mean "easiest for me to code", then say that.
