@@ -13,6 +13,8 @@ help on the entire support mechanism.
 
 Don't assume the worst of the questioner.
 
+* If you run out of patience, just walk away.  Don't yell at the querent.
+
 * Don't assume that he hasn't read the docs.
 
 * Don't assume he is lazy.
@@ -22,3 +24,6 @@ Don't assume the worst of the questioner.
 * RTFM means that you know where the FM is.
 
 * It's unreasonable to expect that everyone else will have read all the things you have.
+
+* After you've helped someone get to the bottom of their question,
+then restate it back to them and ask "Is that what you're asking?"
