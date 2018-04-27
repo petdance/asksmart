@@ -20,7 +20,7 @@ posted somewhere on the Web.
 The easiest way to find the answer to the question you want is just
 to type the question directly into Google.  Maybe you're wondering
 "I heard someone mention that you could do it, so I wonder how can
-I get my git repository status in my bash prompt?"  So go to Google
+I get my git repository status in my shell prompt?"  So go to Google
 and type in "how can I get my git repository status in my bash
 prompt?"  Just like that.  And now you have a
 [page of possible answers][git-shell].
@@ -60,15 +60,31 @@ java.lang.Thread.run(Thread.java:679) Caused by: org.apache.solr.common.SolrExce
 
 # Be respectful
 
-The people who want to help you with your problem 
+Do keep in mind that the people from whom you want help are usually not paid to help you, but are instead helping you out of altruism, goodwill, or a desire to build community for their technology.  None of those things means they will put up with abuse, nagging, or profanity.
+
+One particular type of disrespect is common and will often result in you getting abused or banned from the forum: "negging", or demanding help based on belittling the technology you want help from.  For example, if you join a Python chat channel and demand help because Python does something poorly that Java does well, it is more likely to get you kicked out than an answer.  For that matter, bad-mouthing competing technologies to make people in the forum "like" you doesn't work either.
 
 # Ask as few people as possible
 
 # Ask in the right place
 
+# Explain the whole problem
+
+Often the reason why you can't find an answer to your specific blocker is because you're actually using the wrong tool, command, or module for the task you want to accomplish.  This means that you should always explain what your overall goal is, because often responders can explain a more appropriate tool or command for you to use.  Example:
+
+OK Request:
+
+> Hello, I'm getting this error when I run json_parse on a file: [link to paste].  What could be causing that?
+
+Better request:
+
+> Hello, I'm trying to write a tool to parse the Github events stream.  After I unzip the bundles of JSON files, I get this error when I try to parse the first one with json_parse [link to paste].  Any ideas? 
+
+In the second case, you've provided an opportunity for a responder who is familiar with the Github events stream to share specific knowledge (like that the file has a non-JSON header which needs to be stripped off), which may eliminate an entire quest for syntax errors.
+
 # Be specific in stating the problem
 
-Don't say "it doesn't work".  Explain the way in which it doesn't work.  Do you get no output?  Incorrect output?  If it's incorrect, what makes it incorrect, and what would the correct output be?  Don't expect that the reader knows what "working" means for you.
+Don't say "it doesn't work".  Explain the way in which it doesn't work.  Do you get no output?  Incorrect output?  If it's incorrect, what makes it incorrect, and what would the correct output be?  Don't expect that the reader knows what "working" means for you.  Where possible, provide a paste of any error output, as the specific error message is often helpful to those trying to diagnore your problem.  Supplying specific versions and library names is often also helpful, at least for the components that directly touch your problem.
 
 # Be polite
 
