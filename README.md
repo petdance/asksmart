@@ -5,7 +5,8 @@ asking smart technical questions so the asker is more likely to get
 back useful answers.
 
 This guide is written as an antidote to ESR's
-["How to Ask Questions The Smart Way"](http://catb.org/~esr/faqs/smart-questions.html),
+["How to Ask Questions The Smart Way"](http://catb.org/~esr/faqs/smart-questions.html)
+[(alternate)](http://linuxmafia.com/faq/Essays/smart-questions.html)
 which celebrates hostility and rudeness.  It claims
 that RTFM is "an ancient and hallowed tradition".  It claims that
 abusing those who don't ask questions correctly is "healthy and
